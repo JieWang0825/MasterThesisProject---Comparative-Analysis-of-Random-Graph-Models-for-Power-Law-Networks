@@ -49,7 +49,7 @@ The goal was to evaluate which mechanisms best generate **power-law degree distr
 
 | Model | Example Graph |
 |--------|---------------|
-| Erdős–Rényi | ![ER Example](1.ER-loglog.png) |
+| Erdős–Rényi | ![ER Example](1. ER-loglog.png) |
 | Barabási–Albert | ![BA Example](4.BA-MLE-2.png) |
 | Copying Model | ![CM Example](7.copy-0.1-1.png) |
 
