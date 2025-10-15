@@ -51,9 +51,9 @@ The goal was to evaluate which mechanisms best generate **power-law degree distr
 |--------|---------------|
 | Erdős–Rényi | ![ER Example](1.ER-loglog.png) |
 | Barabási–Albert | ![BA Example](4.BA-MLE-2.png) |
-| Copying Model | ![CM Example-0.1](7.copy-0.1-1.png) |
-                | ![CM Example-0.5](7.copy-0.5-1.png) |
-                | ![CM Example-0.9](7.copy-0.9-1.png) |
+| Copying Model-0.1 | ![CM Example-0.1](7.copy-0.1-1.png) |
+| Copying Model-0.5 | ![CM Example-0.5](7.copy-0.5-1.png) |
+| Copying Model-0.9 | ![CM Example-0.9](7.copy-0.9-1.png) |
 
 
 ---
